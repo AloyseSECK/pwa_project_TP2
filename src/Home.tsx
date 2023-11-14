@@ -14,8 +14,8 @@ function Home() {
               alt="Mario Bros Avatar"
               className="rounded-full w-16 h-16 object-scale-down "
             />
-            <h1>Mario Bros</h1>
-            <p>Un petit plombier moustachu</p>
+
+
           </div>
           <div className="col-span-6 md:col-span-2 bg-zinc-800 text-white p-4 ">
             <img

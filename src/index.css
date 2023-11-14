@@ -43,6 +43,10 @@ body {
   margin-bottom: auto;*/
 }
 
+#loginButton {
+  place-self: center;
+}
+
 #pikachu{
   max-width: 40%;
   margin: auto;
